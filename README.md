@@ -2,8 +2,8 @@
 
 Please refer to the Flux documentation for [installation options.](https://fluxcd.io/docs/installation/)
 
-You can find the blog post for this repository here:
-AND the YouTube tutorial: 
+You can find the blog post for this repository here: [https://anaisurl.com/full-tutorial-getting-started-with-flux-cd/](https://anaisurl.com/full-tutorial-getting-started-with-flux-cd/)
+AND the YouTube tutorial: [https://youtu.be/5u45lXmhgxA](https://youtu.be/5u45lXmhgxA)
 
 ## Installing the Starboard Helm Chart
 
